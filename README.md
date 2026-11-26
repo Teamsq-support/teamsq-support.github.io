@@ -1,2 +1,2 @@
-# teams-support.github.io
+# teamsq-support.github.io
 TeamSQ official website
